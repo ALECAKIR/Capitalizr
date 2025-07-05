@@ -44,7 +44,10 @@ Launch the Extension Development Host by pressing `F5`.
 
 ## 📸 Screenshots
 
-*Coming soon...*
+<p align="center">
+  <img src="demo.gif" alt="Capitalizr Demo" width="600">
+</p>
+
 
 ## 🤝 Contributing
 
