@@ -1,7 +1,12 @@
 {
-  "name": "auto-capitalize-vsc",
-  "displayName": "Auto Capitalize",
+  "name": "capitalizr",
+  "displayName": "Capitalizr",
   "description": "Toggle first letter case of files and folders",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ALECAKIR/Capitalizr.git"
+  },
   "version": "1.0.0",
   "publisher": "ALECAKIR",
   "engines": {
