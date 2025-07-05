@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="icon.png" alt="Capitalizr Icon" width="150">
-</p>şi
+  <img src="icon.png" alt="Capitalizr Icon" width="250">
+</p>
 
 # Capitalizr 🅰️↔️🅰️
 
